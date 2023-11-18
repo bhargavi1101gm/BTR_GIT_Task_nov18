@@ -1,9 +1,9 @@
 Tools!!
 
 
-GIT:
-Linux:
-Maven:
-Jenkins:
-Docker:
-Jenkins:
+GIT: YES
+Linux: YES
+Maven: YES
+Jenkins: PARTIAL
+Docker: NO
+Jenkins: PARTIAL

@@ -1,1 +1,9 @@
 Write down the topics you know in Jenkins
+
+What is Jenkins?
+CI/CD
+Jenkins Installation
+Plugins
+Task-1 : Linux task to build periodically
+Task-2 : GIT task to build periodically by pushing the files to GIT
+Task-3 : Creating Maven project and building periodically

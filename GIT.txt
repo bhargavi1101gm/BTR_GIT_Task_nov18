@@ -1,1 +1,13 @@
 Write down the topics you know in GIT
+
+Drawbacks
+VCS
+Classification of VCS
+Repository, Local Repo, Remote Repo
+What is GIT?
+Stages of GIT
+Branching
+Merging
+Difference between Git and Github
+Difference between Git and Mercurial
+Git Commands

@@ -1,1 +1,17 @@
 Write down the topics you know in Linux
+
+Software
+Types of Software
+Structure of Operating System
+Difference between Linux and Windows
+Structure of Linux Architecture
+To create user
+To create group
+File System
+File Directories
+Linux Commands
+Shell Definition
+Types of Shells
+Linux Commands
+Conditional Statements
+Looping Statements
