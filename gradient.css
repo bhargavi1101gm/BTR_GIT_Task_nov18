@@ -1,0 +1,11 @@
+div
+{
+    height:00px;
+    width:200px;
+    border-radius: 50%;
+    /*border:5px solid red;*/
+    background-image: radial-gradient( ellipse, red, yellow, green);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
