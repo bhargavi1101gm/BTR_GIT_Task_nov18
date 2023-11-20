@@ -1,0 +1,49 @@
+body
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100px;
+}
+div
+{
+    height:500px;
+    width:500px;
+    background-color: yellow;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+aside
+{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    transition-property: all;
+    transition-duration: 1x;
+    transition-delay: 0x;
+    transition-timing-function: ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside
+{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    transition-property: all;
+    transition-duration: 5x;
+    transition-delay: 0x;
+    transition-timing-function: ease-in-out;
+}
+aside:hover
+{
+   background-color: green;
+   cursor: pointer;
+   transition-property: all;
+   transition-duration: 1x;
+   transition-delay: 0x;
+   transition-timing-function: ease-in-out;
+   height: 400px; 
+}
